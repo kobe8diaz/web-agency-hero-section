@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    color: #020202;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#hero {
+    background-image: url("img/faded-office.png");
+    background-size: cover;
+    padding: 20px 0 75px 50px
+}
+
+.text {
+    width: 212px;
+}
+
+#name {
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid #0ea5e9;
+}
+
+.btn {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    background: #0ea5e9;
+    border: none;
+    padding: 14px 20px;
+    margin-top: 12px;
+}
